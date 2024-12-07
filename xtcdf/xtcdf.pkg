@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'xtcdf': Pesaran's CD-test for cross-sectional dependence in panel context Use xtcdf With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f xtcdf.ado
+f xtcdf.sthlp
