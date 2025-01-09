@@ -3,6 +3,8 @@ Pesaran's CD-test for cross-sectional dependence in panel context Use xtcdf With
 
 CD-test for cross-sectional dependence, see Pesaran (2004/2015) Use xtcdf With STATA 18
 
+https://www.youtube.com/watch?v=EYMxL4B5RIg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
